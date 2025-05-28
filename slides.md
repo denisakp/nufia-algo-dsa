@@ -3,7 +3,7 @@ theme: frankfurt
 infoLine: true
 title: Algorithmique et Structures de Données Avancées
 author: Denis AKPAGNONITE
-transition: slide-left
+transition: fade
 mdc: true
 presenter: true
 colorSchema: auto
@@ -165,3 +165,21 @@ section: 'Conclusion'
 src: ./pages/conclusion.md
 ---
 
+---
+layout: end
+---
+
+✨ Une dernière pensée…
+
+> "Bad programmers worry about the code. Good programmers worry about data structures and their relationships."
+>
+
+<!--
+🧠 Cette citation résume toute la conférence.
+Les bons programmeurs ne pensent pas d’abord à la syntaxe, au langage, au framework, au type de BD, micro-service/monolithique....
+
+Ils pensent à la structure des données.
+Et le code découle naturellement de cette structure.
+
+Si vous repartez avec une seule idée aujourd’hui, c’est celle-là.
+-->
