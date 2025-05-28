@@ -156,7 +156,7 @@ src: ./pages/structure-avancees.md
 ---
 
 ---
-section: 'Ateliers'
+section: 'Quoi retenir'
 src: ./pages/ateliers.md
 ---
 
