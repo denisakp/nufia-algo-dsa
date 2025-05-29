@@ -7,14 +7,38 @@ transition: fade
 mdc: true
 presenter: true
 colorSchema: auto
+date: '©2025 - CC BY-NC-SA 4.0'
 ---
 
 # Algorithmique et Structures de Données Avancées
 
 
-🎯 Développer une mentalité **Structure-First**
+## 🎯 Développer une mentalité **Structure-First** 
 
-<!-- -->
+<!--
+👋 Bonjour à toutes et à tous !
+
+Aujourd’hui, on va parler d’un changement de mentalité fondamental en programmation :
+👉 Passer du réflexe “écrire du code” au réflexe “choisir la bonne structure de données”.
+
+
+📌 Quand on parle d’algorithmique, on pense souvent à :
+- la complexité,
+- les fonctions récursives,
+- ou les algorithmes de tri…
+
+Mais le vrai levier de performance et de clarté, c’est la structure des données.
+
+🔁 Si vous avez déjà écrit du code avec plein de if imbriqués, des structures bancales, ou des fonctions que vous avez du mal à tester…
+👉 Ce n’était pas un problème d’algorithme,
+👉 C’était un problème de structure.
+
+
+🎯 L’objectif de cette session :
+vous entraîner à identifier la structure naturelle d’un problème avant même de penser au code.
+C’est ce qu’on appelle la mentalité Structure-First, et ça change tout.
+
+-->
 
 ---
 section: 'Intro'
